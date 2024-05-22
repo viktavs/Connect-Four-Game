@@ -1,3 +1,3 @@
 # Connect Four Game
 
-// was created in my dcim class
+The game for a group project, created in **DCIM** class
